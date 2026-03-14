@@ -1,0 +1,12 @@
+# LLM & Agent Frameworks
+langchain-nvidia-ai-endpoints>=0.3.0
+langchain-core>=0.3.0
+langchain>=0.3.0
+langgraph>=0.4.0
+langgraph-supervisor>=0.0.1
+
+# Tools
+langchain-tavily>=0.1.0
+
+# Utilities
+python-dotenv>=1.0.0
